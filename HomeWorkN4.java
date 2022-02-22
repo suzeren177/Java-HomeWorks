@@ -1,3 +1,10 @@
+/**
+ * GeekBrains. Java 1. HomeWork#4
+ *
+ * @author Mikhail Orlov
+ * @version 22.02.2022
+ */
+
 package ru.geekbrains.lesson4;
 
 import java.util.Random;
